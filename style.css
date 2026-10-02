@@ -84,7 +84,7 @@ nav a {
     border: none;
 }
 
-/* Layout Utama (2 kolom sesuai sketsa) */
+/* Layout Utama (2 Kolom) */
 .main-content {
     display: grid;
     grid-template-columns: 1fr 1fr;
